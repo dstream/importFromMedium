@@ -1,0 +1,17 @@
+{
+  "name": "tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.1.1",
+    "fastify-cors": "^4.1.0",
+    "fs": "0.0.1-security",
+    "medium-to-markdown": "0.0.3"
+  }
+}
